@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roller Address Book</string>
+    <string name="main_activity">Address Book</string>
+    <string name="add_new_contact_activity">Add New Contact</string>
+</resources>
